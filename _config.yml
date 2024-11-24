@@ -25,6 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://im9613.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
+#_config.yml
+favicon: "/asset/images/favicon.ico"
 
 # Build settings
 theme: jekyll-theme-slate
