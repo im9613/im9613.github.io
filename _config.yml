@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -53,3 +54,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+title: Hello there (Test)
+description: This is a description of my site, where I share awesome content.
+>>>>>>> 478ae3158fd3d04df0cfd9201f27bc6279740135
