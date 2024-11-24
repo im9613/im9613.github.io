@@ -4,9 +4,8 @@
 
 layout: home
 title: "HO"
-description: "반갑습니다. 열심히 해볼게요"
+description: "반갑습니다. "
 
-#누추한곳에 오셔서 감사합니다ㅎ
 
 
 
